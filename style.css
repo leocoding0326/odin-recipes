@@ -1,9 +1,11 @@
 h1{ background-color: rgb(187, 247, 232);
     color: black;
     text-align: center;
+    font-size: 50px;
+   
 }
 
 body{
-    font-family: "Georgia serif" "Times New Roman", serif;
+    font-family: Georgia, "Times New Roman", serif;
     background-color: azure;
 }
