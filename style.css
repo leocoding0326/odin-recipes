@@ -2,10 +2,21 @@ h1{ background-color: rgb(219, 245, 239);
     color: black;
     text-align: center;
     font-size: 50px;
-    margin: 25px 100px 50px 100px;
+    margin: 25px 100px 0px 100px;
     padding-top: 10px;
     padding-bottom: 10px;
-   
+    border: solid;
+    border-color: rgb(236, 235, 235);
+    border-width: 1px;
+}
+
+.recipes-list {
+    background-color: white;
+    margin: 0px 100px
+}
+
+ul{
+    margin: 0px;
 }
 
 body{
