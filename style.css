@@ -1,7 +1,10 @@
-h1{ background-color: rgb(187, 247, 232);
+h1{ background-color: rgb(219, 245, 239);
     color: black;
     text-align: center;
     font-size: 50px;
+    margin: 25px 100px 50px 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
    
 }
 
