@@ -23,3 +23,17 @@ body{
     font-family: Georgia, "Times New Roman", serif;
     background-color: azure;
 }
+
+div.croquetas,
+.cuban-bread,
+.flan{
+    padding: 25px 0px;
+    border: solid;
+    text-align: center;
+    margin-top: 10px;
+
+}
+
+div.croquetas{
+    background-color: rgba(249, 209, 184, 0.382);
+}
